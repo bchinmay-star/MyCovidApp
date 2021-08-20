@@ -1,6 +1,10 @@
 # MyCovidApp
-An android application that connects a patient in need to the hospitals having surplus of medical resources![virus](https://user-images.githubusercontent.com/62845673/125821741-513e41d0-195b-40a4-acb0-e910f07ab945.png)
-.
+An android application that connects a patient in need to the hospitals having surplus of medical resources!
+
+![Demo](https://user-images.githubusercontent.com/55151618/125959710-3a453888-bfdf-49c5-aaa8-f4b9b92e2e46.gif)
+
+
+
 
 ## Features
 * Shows realtime availability of vaccines, oxygen-cylinders, plasma and beds in the hospitals
